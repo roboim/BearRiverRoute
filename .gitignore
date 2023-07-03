@@ -1,0 +1,14 @@
+.idea/
+venv/
+VK/
+NETOLOGY/
+DATA/
+__pycache__/
+build/
+dist/
+data.csv
+cmd_string.txt
+WMO.txt
+прогноз.txt
+прогноз.pdf
+New Office Open XML Spreadsheet.xlsx
